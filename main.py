@@ -7,7 +7,7 @@ import time
 from tqdm import tqdm
 
 # Deepseek API Key (请替换成你的实际 API Key)
-DEEPSEEK_API_KEY = "sk-9d66fb6a12814b1ca8333a7bf8adaf55"
+DEEPSEEK_API_KEY = "你的Deepseek API Key"
 
 # -------------------- 辅助函数 --------------------
 
